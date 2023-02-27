@@ -15,7 +15,6 @@
 
 ## 4 - Design Sprint
 - [PDF](https://github.com/Darklabel91/DesignThinking_Fiap/blob/main/PDF/MBA%20GTI%20-%20Design%20Thinking%20-%20Cap%204%20-%20Design%20Sprint_RevFinal.pdf)
-- [Ref]()
 
 ## 5 - Design de Serviços
 - [PDF](https://github.com/Darklabel91/DesignThinking_Fiap/blob/main/PDF/MBA%20GTI%20-%20Design%20Thinking%20-%20Cap%205%20-%20Design%20de%20Servicos_RevFinal.pdf)
